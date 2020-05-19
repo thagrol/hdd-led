@@ -13,3 +13,4 @@ Requires gpiozero (sudo apt install pyton3-gpiozero)
   -d, --debug           enable debug output.
   
 The shorter the poll interval the more responsive the LED will be but more CPU time will be used by the script.
+Responsiveness will also drop on a heavily loaded system.

@@ -1,5 +1,18 @@
 #!/usr/bin/env python3
 
+##
+## (C) 2020 Simon Osborne
+## No warranties, express or implied.
+## Use entirely at your own risk
+## Freely distrubutable subject to the following:
+##  1. Don't claim credit for my work.
+##  2. Do not charge for this software and its acompanying files
+##  3. All acompanying files must be distributed with this script
+##  4. Derivative works must comply with the above
+##
+## This script origanally published at https://github.com/thagrol/hdd-led
+##
+
 import argparse
 import gpiozero
 import logging
